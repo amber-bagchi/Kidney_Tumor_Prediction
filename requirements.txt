@@ -1,4 +1,5 @@
-tensorflow==2.12.0
+tensorflow
+keras
 pandas 
 dvc
 mlflow==2.2.2
@@ -16,4 +17,5 @@ scipy
 Flask
 Flask-Cors
 gdown
+dagshub
 -e .
